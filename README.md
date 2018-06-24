@@ -1,4 +1,5 @@
 # hello-word
-my repository
+#my repository
 
-nano in tasimalyz
+#nano in tasimalaya
+print "nano riano bapak agni n alfi"
